@@ -9,6 +9,8 @@ Author: Elson Tan
     `php artisan make:auth`
 
 2. Generate a migration for posts schema
+
+    `php artisan make:migration create_posts_table`
     
      `2019_02_24_064949_create_posts_table`
 
